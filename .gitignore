@@ -1,0 +1,9 @@
+# 프로젝트 제외 경로
+/bin/**
+/out/**
+.settings/**
+.classpath
+.project
+
+.idea
+.idea/**
